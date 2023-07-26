@@ -1,0 +1,21 @@
+/* sass --watch src/App.module.scss src/App.module.css */
+body {
+  background-color: gray;
+}
+body h2 {
+  color: green;
+  font-size: 2.5rem;
+}
+
+/*
+COLORS:
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+Light blue: #6f9ed5
+Medium blue: #7a95c5
+Dark blue: #8582b4
+*/
+
+/*# sourceMappingURL=App.module.css.map */
