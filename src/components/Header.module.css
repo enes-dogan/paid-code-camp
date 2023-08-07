@@ -1,6 +1,6 @@
 .header {
   height: 90vh;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.6549019608), rgba(40, 180, 133, 0.6431372549)), url(../img/hero.jpg);
+  background-image: linear-gradient(to right bottom, rgba(111, 159, 213, 0.662745098), rgba(133, 130, 180, 0.6705882353)), url(../img/heroo.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -27,21 +27,20 @@
 
 .headingPrimary {
   color: #fff;
-  text-transform: uppercase;
+  font-family: "Varela Round", sans-serif;
 }
 
 .headingPrimaryMain {
   display: block;
   font-weight: 400;
   font-size: 3.75rem;
-  letter-spacing: 2rem;
 }
 
 .headingPrimarySub {
   display: block;
   font-weight: 700;
   font-size: 1.25rem;
-  letter-spacing: 1.0875rem;
+  letter-spacing: 0.2rem;
 }
 
 /*# sourceMappingURL=Header.module.css.map */
